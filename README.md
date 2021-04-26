@@ -1,1 +1,1 @@
-# end_ofPractic
+# JS simple WEB page with callculator
